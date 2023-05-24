@@ -1,7 +1,6 @@
-
 Flash Games running off of ruffle, on their very own webpage. Making it easy to embed right onto your website! May take a smidge to load. 
 
-This is different than the Â¨packÂ¨ as this version is just each game on its own page, which makes it better for embeds.  Also, yeah I know it looks straight out of the late 90's but whatever. If the link attached is down, then I'm most likely updating it. 
+This is different than the ¨pack¨ as this version is just each game on its own page, which makes it better for embeds.  Also, yeah I know it looks straight out of the late 90's but whatever. If the link attached is down, then I'm most likely updating it. 
 
 Also, in case something happens, heres a backup:
 https://chili-bowl-flashv3.glitch.me/
@@ -72,7 +71,7 @@ Shift-Refresh Consulting - Creator(s?) of Flash version of Pong
 -
 gamedesign.jp - Creator(s?) of Flash Version of Hanafuda and the How to Guide 
 -
-Mojang - Creator(s) of Minecraft and its Â¨ClassicÂ¨ Webport
+Mojang - Creator(s) of Minecraft and its ¨Classic¨ Webport
 -
 3kh0 - Reverse Engineer of Minecraft Classic, Retro Bowl and Basket Ball Stars
 -
@@ -93,4 +92,4 @@ Me (SeanS) - For making this
 You - For playing it
 -
 
-Also, you donÂ´t have to give credit if you iframe or embed this for your own website. I donÂ´t care. 
+Also, you don´t have to give credit if you iframe or embed this for your own website. I don´t care. 
